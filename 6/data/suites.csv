@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8866","annotatedStepsCheckIfTabIssueExistsTest()","","Sun Jan 05 12:46:36 GMT 2025","passed","Sun Jan 05 12:46:45 GMT 2025","","com.github.allure.tests.RepositoryNavTest","com.github.allure.tests.RepositoryNavTest","annotatedStepsCheckIfTabIssueExistsTest"
+"","8492","lambdaStepsCheckIfTabIssueExistsTest()","","Sun Jan 05 12:46:28 GMT 2025","passed","Sun Jan 05 12:46:36 GMT 2025","","com.github.allure.tests.RepositoryNavTest","com.github.allure.tests.RepositoryNavTest","lambdaStepsCheckIfTabIssueExistsTest"
+"","9789","selenideCheckIfTabIssueExistsTest()","","Sun Jan 05 12:46:18 GMT 2025","passed","Sun Jan 05 12:46:28 GMT 2025","","com.github.allure.tests.RepositoryNavTest","com.github.allure.tests.RepositoryNavTest","selenideCheckIfTabIssueExistsTest"
